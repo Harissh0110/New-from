@@ -1,0 +1,36 @@
+img{
+    width: 75px;
+    height: 5rem;
+   }
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+h1{
+text-align: center;
+}
+.enq, .date{
+    display: inline;
+}
+.date{
+    float: right;
+    width:200px;
+    margin:0;
+}
+.number p{
+    display: inline;
+    }
+
+.left{
+    float:right;
+    padding: 0%;
+    border: 0;
+    margin: 0;
+}
+.choose{
+    font-size: 15px;
+} 
+
